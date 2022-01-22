@@ -1,2 +1,2 @@
-# LinearRegressionPytorch
-CSF425 Deep Learning L1
+# CSF425 Deep Learning course 
+DL using Pytorch
