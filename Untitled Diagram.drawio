@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T23:38:16.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YZsz6sqFcpC4mqUVpgrq" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T23:39:09.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oN3CMAHEHdm5V_xjUCQ4" version="22.0.6" type="github">
   <diagram name="Page-1" id="OPgqksAICiDrDx__GSAM">
-    <mxGraphModel dx="1982" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2056" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,6 +154,14 @@
         <mxCell id="tyjZmOUifuCRZmJO71np-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.088;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tyjZmOUifuCRZmJO71np-11" target="tyjZmOUifuCRZmJO71np-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tyjZmOUifuCRZmJO71np-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="tyjZmOUifuCRZmJO71np-39" target="tyjZmOUifuCRZmJO71np-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="80" />
+              <mxPoint x="1050" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tyjZmOUifuCRZmJO71np-39" value="Ensemble Machine Learning Model" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="980" y="40" width="80" height="80" as="geometry" />
         </mxCell>
@@ -161,7 +169,16 @@
           <mxGeometry x="1090" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tyjZmOUifuCRZmJO71np-45" value="Confidence" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tyjZmOUifuCRZmJO71np-46" value="Location of forgery" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tyjZmOUifuCRZmJO71np-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.015;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tyjZmOUifuCRZmJO71np-39" target="tyjZmOUifuCRZmJO71np-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyjZmOUifuCRZmJO71np-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tyjZmOUifuCRZmJO71np-39" target="tyjZmOUifuCRZmJO71np-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
